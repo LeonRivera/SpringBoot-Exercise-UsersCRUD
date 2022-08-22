@@ -2,8 +2,8 @@
 
 Tools:
 
-SpringBoot
-SpringJPA
-Spring Rest
-H2 Database
-Azure Blob Service
+- SpringBoot
+- SpringJPA
+- Spring Rest
+- H2 Database
+- Azure Blob Service
